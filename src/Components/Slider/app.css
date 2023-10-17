@@ -1,0 +1,25 @@
+.container {
+  width: 100%;
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.title {
+  text-align: center;
+  margin: 24px 0;
+}
+h2 {
+  text-align: center;
+  margin: 24px 0;
+  font-size: 14px;
+}
+
+.slide-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 280px;
+  width: 60%;
+  height: 450px;
+  object-fit: cover;
+}
